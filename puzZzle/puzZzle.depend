@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646152126 source:d:\homework\puzzzle\game.cpp
+	"Game.h"
+
+1646152362 d:\homework\puzzzle\game.h
+	<iostream>
+	<SDL.h>
+
