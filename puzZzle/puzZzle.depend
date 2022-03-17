@@ -1,8 +1,27 @@
 # depslib dependency file v1.0
-1646152126 source:d:\homework\puzzzle\game.cpp
+1647546687 source:d:\homework\puzzzle\game.cpp
 	"Game.h"
+	"windows.h"
+	"ShellAPI.h"
+	"Piece.h"
 
-1646152362 d:\homework\puzzzle\game.h
+1647546904 d:\homework\puzzzle\game.h
 	<iostream>
 	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	"Piece.h"
+
+1647500522 source:d:\homework\puzzzle\main.cpp
+	"Game.h"
+
+1646244004 source:d:\homework\basic_sorts.cpp
+
+1647516716 source:d:\homework\puzzzle\piece.cpp
+	"Piece.h"
+
+1647517296 d:\homework\puzzzle\piece.h
+	<SDL.h>
+	<SDL_image.h>
 
