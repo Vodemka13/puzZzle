@@ -35,9 +35,13 @@
 		<Unit filename="../basic_sorts.cpp" />
 		<Unit filename="Game.cpp" />
 		<Unit filename="Game.h" />
+		<Unit filename="Image.cpp" />
+		<Unit filename="Image.h" />
 		<Unit filename="Piece.cpp" />
 		<Unit filename="Piece.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="stb_image.h" />
+		<Unit filename="stb_image_write.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

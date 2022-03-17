@@ -33,6 +33,7 @@ private:
     SDL_Renderer *renderer;
     std::vector <Piece*> texturesData;
     std::vector <Piece*> grid3 = {NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL};
+    std::vector <Piece*> grid5 = {NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL};
     //SDL_Texture* texture;
 };
 
