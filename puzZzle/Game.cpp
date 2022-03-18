@@ -653,6 +653,12 @@ void Game::handleEvents(){
 void Game::update(){
     cnt++;
     //std::cout << mousex << " " << mousey << std::endl;
+    if (action == "3" && clicked){
+        if (grid3 == texturesData){isRunning = false;}
+    }
+    if (action == "5" && clicked){
+        if (grid5 == texturesData){isRunning = false;}
+    }
 
     if (clicked && action == "menu"){
         if (mousex >= 787 && mousex <= 1112 && mousey >= 519 && mousey <= 682){
